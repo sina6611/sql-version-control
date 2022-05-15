@@ -1,0 +1,2 @@
+ALTER TABLE ordersS 
+ADD COLUMN	order_date DATE DEFAULT "2021-01-01"
