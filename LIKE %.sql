@@ -1,0 +1,2 @@
+SELECT * FROM  ORDERSS
+WHERE product LIKE "NO%" 
