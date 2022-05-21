@@ -1,0 +1,4 @@
+SELECT * 
+FROM orderss
+
+WHERE CUS_ID IN (4,3)
