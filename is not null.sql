@@ -1,0 +1,2 @@
+SELECT * FROM orderss
+WHERE price IS NOT NULL
